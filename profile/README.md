@@ -1,4 +1,4 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/Build-Build-black?style=for-the-badge&logo=fivem&logoColor=cyan&logoSize=auto&label=TEST&labelColor=orange&color=%23009999">
+<img alt="Static Badge" src="https://img.shields.io/badge/Build-Button-black?style=for-the-badge&logo=fivem&logoColor=cyan&logoSize=auto&label=TEST&labelColor=orange&color=%23009999">
 
 
 ## Sky's GitHub Stats
