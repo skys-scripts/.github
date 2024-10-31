@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **lots of lua..... and better understanding of fivem natives**
 
-- 👯 I’m looking to collaborate on [partnerships (find me in my discord)](discord.gg/YwUAKy8f8Z)
+- 👯 I’m looking to collaborate on partnerships (find me in my [discord](discord.gg/YwUAKy8f8Z))
 
 - 🤝 I’m looking for help with **many things as we all should learn more. (mainly checking entities from hash numbers to model names)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/orgs/skys-scripts/repositories],[https://store.skys-scripts.com]
+- 👨‍💻 All of my projects are available at [my github](https://github.com/orgs/skys-scripts/repositories) or in my [tebex store](https://store.skys-scripts.com)
 
 - 💬 Ask me about **anything in my discord. Always looking to have more ideas and people reach out**
 
