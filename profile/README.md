@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **anything in my discord. Always looking to have more ideas and people reach out**
 
-- 📫 How to reach me **http://discord.gg/YwUAKy8f8Z**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/@skys_scripts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@skys_scripts" height="30" width="40" /></a>
