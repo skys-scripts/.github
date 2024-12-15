@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sky</h1>
 <h3 align="center">A Fivem script creator that loves to expand my knowledge while helping people</h3>
 
-- 🔭 I’m currently working on **Knowledge System 1.3.9**
+- 🔭 I’m currently working on **A few new scripts to work along side other assets in the works**
 
 - 🌱 I’m currently learning **lots of lua..... and better understanding of fivem natives**
 
