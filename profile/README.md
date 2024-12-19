@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **many things as we all should learn more. (mainly checking entities from hash numbers to model names)**
 
-- 👨‍💻 All of my projects are available at [my github](https://github.com/orgs/skys-scripts/repositories) or in my [tebex store](https://store.skys-scripts.com)
+- 👨‍💻 All of my free projects are available at [my github](https://github.com/orgs/skys-scripts/repositories) or in my [tebex store (includes paid asseets too)](https://store.skys-scripts.com)
 
 - 💬 Ask me about **anything in my discord. Always looking to have more ideas and people reach out**
 
