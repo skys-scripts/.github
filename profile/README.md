@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A few new scripts to work along side other assets in the works**
 
-- 🌱 I’m currently learning **lots of lua..... and better understanding of fivem natives**
+- 🌱 I’m currently learning **more lua functionality, playing with 3d modeling..... and better understanding of fivem natives**
 
 - 👯 I’m looking to collaborate on partnerships (find me in my [discord](discord.gg/YwUAKy8f8Z))
 
